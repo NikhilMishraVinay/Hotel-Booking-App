@@ -1,0 +1,19 @@
+.pointer{
+    cursor:pointer;
+}
+
+.ant-model-footer{
+    display: none;
+}
+
+.ant-select-selector{
+    height: 50px !important;
+}
+.ant-select-selection-placeholder,
+.ant-select-selection-Item{
+    margin-top: 5px;
+}
+
+.btn-square{
+    border-radius: 0;
+}
